@@ -6,7 +6,8 @@
 - `npm install express-es6-template-engine` - 
 
 - create an index.js, .gitignore, templates directory, public directory
-- add a nodemon script to your `package.json`
+- add a nodemon script to your `package.json` under `scripts`
+   - "dev": "nodemon index.js"
 
 - logging
 - helmet
